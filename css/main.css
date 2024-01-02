@@ -3,18 +3,20 @@
  
 body {
     font-family: Arial;
-    padding: 10px;
     background: #f1f1f1;
+    margin: 0;
     
   }
    .header {
-
     text-align: center;
     background: white;
-    background-size: 100% 100%; 
+    background-repeat: no-repeat;
+    background-position: center;
     position: relative;
-    background-image: url(/css/imagens/fundo\ teste3.png);
-    padding: 250px;    
+    height: 200px;
+    background-image: url(/css/imagens/fundo\ header2.png);
+    
+
 
   }
  
