@@ -25,13 +25,13 @@ body {
     color: #0511f2
   }
   .h2-model{
-
     font-family: var(--fonte-destaque);
     color: #ffffff;
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0 px rgba(0,0,0,0.267);
+    
   }
   
   .topnav {
