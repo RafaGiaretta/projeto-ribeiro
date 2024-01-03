@@ -187,3 +187,22 @@ body {
 
   background-color: #05c7f22c;
 }
+
+#folders-list{
+  display: flex;
+  gap: 20px
+}
+
+#folder-card{
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  width: 200px;
+  padding: 10px;
+}
+
+#folder-card p{
+  color: black;
+  padding: 5px;
+  text-align: center;
+}
