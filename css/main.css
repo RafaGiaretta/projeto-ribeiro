@@ -190,7 +190,13 @@ body {
 
 #folders-list{
   display: flex;
-  gap: 20px
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.photo{
+  width: 200px;
+  height: auto;
 }
 
 #folder-card{
