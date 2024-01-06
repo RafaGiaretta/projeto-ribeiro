@@ -85,7 +85,7 @@ body {
     position: absolute;
   }
   .card {
-    background-color: white;
+    background-color: #D3ECF5;
     padding: 20px;
     margin-top: 20px;
     position: relative;
@@ -192,6 +192,8 @@ body {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
+
+
 }
 
 .photo{
@@ -202,7 +204,10 @@ body {
 #folder-card{
   display: flex;
   flex-direction: column;
-  border: 2px solid black;
+  border: double 5px #1c388c;
+  border-radius: 2px;
+  background-color:white;
+
   width: 200px;
   padding: 10px;
 }
@@ -212,3 +217,12 @@ body {
   padding: 5px;
   text-align: center;
 }
+.footer-r{
+float: right;
+}
+
+.footer-l{
+  float: left;
+
+}
+  
