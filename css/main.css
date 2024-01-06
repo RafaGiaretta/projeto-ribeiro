@@ -85,7 +85,7 @@ body {
     position: absolute;
   }
   .card {
-    background-color: #D3ECF5;
+    background-color: #eaf1f4;
     padding: 20px;
     margin-top: 20px;
     position: relative;
@@ -185,6 +185,7 @@ body {
 }
 .p-index{
 
+  margin: 20px;
   background-color: #05c7f22c;
 }
 
@@ -225,4 +226,8 @@ float: right;
   float: left;
 
 }
-  
+.container{
+  display:flex;
+  position: relative;
+  border: outset 3px #1c388c;
+}
